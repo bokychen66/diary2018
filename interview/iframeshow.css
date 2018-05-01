@@ -1,0 +1,44 @@
+html,body{
+	height:100%;
+}
+
+.iframshow{
+	padding:0 10 0 10px;
+}
+
+.frame {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0 none;
+  box-sizing: border-box;
+}
+
+.chatboxbtn{
+	margin: auto;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.chatbox-other{
+	margin: auto;
+	text-align: center;
+	color: #ffffff;
+}
+
+.chatbox-other a{
+	text-decoration: none;
+}
+
+.othertitle{
+	font-weight: 21pt;
+}
+
+.other-btn{
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
