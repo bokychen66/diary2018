@@ -127,15 +127,15 @@ body {
 
 .section__banner-button {
   position: absolute;
-  bottom: 12%;
-  left: calc(50% - 75px);
+  bottom: 18%;
+  left: calc(50% - 85px);
 }
 .section__banner-button .btn {
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 500;
   color: white;
   border: solid 3px white;
-  background: #98caec;
+  background: #2d70b6;
   border-radius: 50px;
   padding: 8px 35px;
   position: relative;
@@ -339,7 +339,7 @@ body {
 /*               */
 /*********************** */
 .section__smallCarousel {
-  margin: 20px 0px 10px;
+  margin: 20px auto 10px;
 }
 
 /*********************** */
@@ -674,7 +674,7 @@ ol.carousel-indicators li.active {
   background-position: 1% 3%;
   background-size: 30%;
   background-repeat: repeat;
-  padding-bottom: 165px;
+  /*padding-bottom: 165px;*/
 }
 
 @media (min-width: 992px) {
