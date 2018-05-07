@@ -42,3 +42,22 @@ html,body{
 	margin-right: 5px;
 	margin-bottom: 10px;
 }
+
+.btn-register2{
+	background:#ffc108;
+	color: white !important;
+    font-size: 1rem !important;
+    font-family: Setofont !important;
+    border-radius: 50px !important;
+    padding: 6px 15px !important;
+    border: solid 1.5px white !important;
+    display: inline-block !important;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+}
+
+.btn-register2:hover {
+    color: white !important;
+    background: rgba(255, 161, 8, 0.8) !important;
+  }
