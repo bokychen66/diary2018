@@ -306,6 +306,24 @@ body {
   padding: 0px 75px;
 }
 
+.article-a{
+  color: #2d70b6;
+  text-decoration: none;
+}
+
+.article-a:hover{
+  color: #0f459c;
+  text-decoration: none;
+}
+
+.article-p{
+  color: #2e2e2e;
+}
+
+.article-row{
+  padding-bottom: 10px;
+}
+
 /*********************** */
 /*             */
 /*    for collapse__div  */
